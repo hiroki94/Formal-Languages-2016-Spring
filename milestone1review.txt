@@ -1,0 +1,16 @@
+0 pts
+
+Neat DFA diagram in a .pdf
+- no
+State-transition table
+- no
+Descriptions of each state
+- no
+5 test cases accepted by the DFA
+- no
+5 test cases rejected by the DFA 
+- no
+
+
+
+- Dr. Rivas
